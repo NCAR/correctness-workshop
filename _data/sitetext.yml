@@ -141,7 +141,19 @@ clients:
 
 footer:
   text: >
-    2023 Workshop on Correctness and Reproducibility for Climate and Weather Software
+    #### Code of Conduct
+
+    UCAR and NCAR are committed to providing a safe, productive, and welcoming environment 
+    for all participants in any conference, workshop, field project or project hosted or 
+    managed by UCAR, no matter what role they play or their background. This includes 
+    respectful treatment of everyone regardless of gender, gender identity or expression, 
+    sexual orientation, disability, physical appearance, age, body size, race, religion,
+    national origin, ethnicity, level of experience, political affiliation, veteran status,
+    pregnancy, genetic information, as well as any other characteristic protected under 
+    state or federal law.
+
+
+    **2023 Workshop on Correctness and Reproducibility for Climate and Weather Software**
   #legal: "Privacy Policy"
   #social:
   #  - url: https://twitter.com
