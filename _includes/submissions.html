@@ -1,0 +1,15 @@
+<!-- submissions -->
+  <section class="page-section" id="{{ site.data.sitetext.submissions.section | default: "submissions" }}">
+    <div class="container">
+	
+        <div class="text-left">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.submissions.title | default: "submissions" }}</h2>
+          {% if site.data.sitetext.submissions.text %}
+		  <h3 class="section-subheading text-dark">{{ site.data.sitetext.submissions.text | markdownify }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+	  
+    </div>
+  </section>
+<!-- End submissions -->

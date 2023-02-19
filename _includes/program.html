@@ -1,0 +1,14 @@
+<!-- program -->
+  <section class="page-section" id="{{ site.data.sitetext.program.section | default: "program" }}">
+    <div class="container">
+	
+        <div class="text-left">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.program.title | default: "program" }}</h2>
+          {% if site.data.sitetext.program.text %}
+		  <h3 class="section-subheading text-dark">{{ site.data.sitetext.program.text | markdownify }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+	  
+    </div>
+  </section>

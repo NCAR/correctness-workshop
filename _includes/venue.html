@@ -1,0 +1,18 @@
+<!-- venue -->
+  <section class="bg-light page-section" id="{{ site.data.sitetext.venue.section | default: "venue" }}">
+    <div class="container">
+	
+        <div class="text-left">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.venue.title | default: "venue" }}</h2>
+          {% if site.data.sitetext.venue.text %}
+		  <h3 class="section-subheading text-dark">{{ site.data.sitetext.venue.text | markdownify }}</h3>
+          <div class="row">
+		    <img class="mx-auto rounded" src="{{ site.data.sitetext.venue.image }}" alt="">
+		    <h3 class="section-subheading text-muted text-center">{{ site.data.sitetext.venue.caption | markdownify }}</h3>
+          </div>
+		  {% endif %}
+        </div>
+      </div>
+	  
+    </div>
+  </section>

@@ -1,0 +1,15 @@
+<!-- organizers -->
+  <section class="bg-light page-section" id="{{ site.data.sitetext.organizers.section | default: "organizers" }}">
+    <div class="container">
+	
+        <div class="text-left">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.organizers.title | default: "organizers" }}</h2>
+          {% if site.data.sitetext.organizers.text %}
+		  <h3 class="section-subheading text-dark">{{ site.data.sitetext.organizers.text | markdownify }}</h3>
+		  {% endif %}
+        </div>
+      </div>
+	  
+    </div>
+  </section>
+<!-- End organizers -->
