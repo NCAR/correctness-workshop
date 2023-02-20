@@ -37,12 +37,11 @@ scope:
   title: "Scope"
   text: > 
         Topics of interest include but not limited to:
-          - Tools and approaches for testing and debugging.
+          - Tools and approaches for model testing and debugging.
           - Statistical and ensemble-based approaches for evaluating model consistency and software correctness.
-          - Software Design and Abstraction approaches.
-          - Formal methods and logical proof techniques for rigorous verification.
+          - Software design approaches for ensuring correctness and reproducibility.
+          - Formal methods, logical proof techniques, abstraction and modeling for rigorous verification.
           - Other software correctness tools and approaches for verification and validation.
-          - Reproducilibity?
 
         Submissions may include technical results, novel techiques and approaches, experiences, ideas, and opinions 
         involving one or more of the above topics. Applications should involve:
@@ -57,17 +56,23 @@ submissions:
   title: "Submissions"
   text: > 
         Abstract submissions will open soon.
-        Tavel support (?)
 
 registration:
   title: "Registration"
   text: > 
-        Registration will open soon.
+        Registration will open in the Summer of 2023.
 
 dates:
   title: "Dates"
   text: > 
-        TBD.
+
+      - Abstract submissions due: TBD.
+
+      - Notification of acceptance: TBD.
+
+      - Registration deadline: TBD.
+
+      - Workshop date: TBD. 
 
 organizers:
   title: "Organizers"
@@ -97,12 +102,12 @@ organizers:
 program:
   title: "Program"
   text: > 
-        TBD. The workshop program will include keynote speakers, invited talks, peer-reviewed submissions, and discussions.
+        The workshop program will include keynote speakers, invited talks, peer-reviewed submissions, and discussions.
 
 venue:
   title: "Venue"
   text: > 
-        The workshop will be held **virtually** and **in person** at The Mesa Laboratory 
+        The workshop will be held **virtually** and **in person** at the Mesa Laboratory 
         of the National Center for Atmospheric Research. 
   image: assets/img/ncar_mesa.jpg
   caption: >
@@ -112,32 +117,7 @@ venue:
 
         Address: 1850 Table Mesa Dr, Boulder, CO 80305
 
-        Note: Virtual Meeting details will be announced lated.
-
-about:
-  title: "About Us"
-  text: "our story"
-  body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-  section: about
-
-clients:
-  section: clients
-  max-height: 100px
-  horizontal-scrolling: "" #"yes/no"
-  list:
-    - title: "envato"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/envato.jpg
-    - title: "designmodo"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/designmodo.jpg
-    - title: "themeforest"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/themeforest.jpg
-    - title: "Creative Market"
-      url: https://github.com/raviriley/agency-jekyll-theme
-      logo: assets/img/clients/creative-market.jpg
-
+        Note: Virtual Meeting details will be announced later.
 
 footer:
   text: >
