@@ -35,5 +35,13 @@
     }
   </style>
   {% endif %}
-  {% include analytics.html %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WF05CK6V77"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-WF05CK6V77');
+  </script>
 </head>
