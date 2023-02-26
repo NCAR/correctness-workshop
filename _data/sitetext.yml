@@ -134,6 +134,11 @@ venue:
 
         Note: Virtual Meeting details will be announced later.
 
+logos:
+  #title: ""
+  #text: ""
+  image: assets/img/ncar_banner2.jpg
+
 footer:
   text: >
     #### Code of Conduct
