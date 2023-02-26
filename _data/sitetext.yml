@@ -10,8 +10,8 @@
 # English (default)
 # -----------------
 header:
-  #title: 2023 Workshop on
-  text:  2023 Workshop on Correctness and Reproducibility for Climate and Weather Software
+  title: November 9-10, 2023
+  text:  Workshop on Correctness and Reproducibility for Climate and Weather Software
   button: Submit an Abstract
   buttonlink: "#submissions"
 

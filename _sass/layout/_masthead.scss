@@ -31,12 +31,12 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
     .intro-text {
-      padding-top: 220px;
-      padding-bottom: 260px;
+      padding-top: 140px;
+      padding-bottom: 250px;
       .intro-lead-in {
-        font-size: 45px;
+        font-size: 35px;
         font-style: italic;
-        line-height: 40px;
+        line-height: 45px;
         margin-bottom: 5px;
         @include serif-font;
       }
