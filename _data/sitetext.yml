@@ -101,9 +101,9 @@ organizers:
   text: > 
         ##### Co-chairs
 
-        - [Allison Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research, USA
+        - [Allison Baker](https://staff.ucar.edu/users/abaker), National Center for Atmospheric Research
 
-        - [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research, USA
+        - [Alper Altuntas](https://staff.ucar.edu/users/altuntas), National Center for Atmospheric Research
 
 
         ##### Committee
@@ -111,15 +111,9 @@ organizers:
         - TBD.
 
 
-        ##### Funding
+        ##### Administrator
 
-        - President’s Strategic Initiative Fund (PSIF) of
-        University Corporation for Atmosperic Research (UCAR)
-
-        - Computational & Information Systems Laboratory (CISL) of
-        National Center for Atmospheric Research (NCAR)
-        
-        - Climate & Global Dynamics Laboratory (CGD) of NCAR.
+         - [Taysia Peterson](https://staff.ucar.edu/users/taysia), National Center for Atmospheric Research
 
 program:
   title: "Program"
@@ -152,6 +146,17 @@ footer:
     national origin, ethnicity, level of experience, political affiliation, veteran status,
     pregnancy, genetic information, as well as any other characteristic protected under 
     state or federal law.
+
+    ##### Funding
+
+    President’s Strategic Initiative Fund (PSIF) of
+    University Corporation for Atmosperic Research (UCAR) --- 
+    Computational & Information Systems Laboratory (CISL) of
+    National Center for Atmospheric Research (NCAR) --- 
+    Climate & Global Dynamics Laboratory (CGD) of NCAR.
+
+
+    -------------------
 
 
     **2023 Workshop on Correctness and Reproducibility for Climate and Weather Software**
