@@ -61,7 +61,6 @@ scope:
           - Statistical and ensemble-based approaches for evaluating model consistency and software correctness.
           - Software design approaches and development practices for streamlining correctness and reproducibility efforts.
           - Formal methods, abstraction, and logical proof techniques for rigorous verification.
-          - Packaging, containerization, environment management, version control, distribution, documentation, and porting techniques for facilitating reproducibility.
           - Verifying and validating large-scale applications running on HPC clusters, cloud computing systems, heterogeneous systems, GPUs, etc.
           - Other software correctness and reproducibility approaches for facilitating verification and validation.
 
@@ -72,6 +71,7 @@ scope:
           - External libraries and packages used in climate and weather simulation applications.
           - Artificial intelligence techniques, such as machine learning and deep learning, applied to climate and weather software.
           - Diagnostics, post-processing, visualization tools, and libraries.
+          - Packaging, environment management, version control, and porting techniques for facilitating reproducibility.
           - Other software development and approaches extensively used within the climate and weather simulation context.
 
 submissions:
