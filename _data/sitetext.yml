@@ -40,16 +40,23 @@ workshop:
     It is also customary to require regression tests 
     to yield bitwise identical results. This requirement
     is often unmet due to the chaotic nature of climate and weather models and 
-    large variety of hardware/software environments they are run on. When bitwise
+    the large variety of hardware/software environments they are run on. When bitwise
     identical results cannot be sought, field experts are to evaluate model results
     in a time-consuming and subjective manner. 
 
 
-    In short, climate and weather modeling communities are in need of practical
-    and feasible means of ensuring correctness and reproducibility. 
-    In this workshop, we aim to provide a venue to discuss challenges, opportunities,
-    and recent advances in ensuring software correctness and reproducibility  
-    for climate and weather modelers, HPC community members, and industry partners.
+    In short, climate and weather modeling communities are in need of
+    practical and feasible means of ensuring correctness and
+    reproducibility.  For example, we are interested in means to
+    easily assess whether changes to a model code result in output
+    that is systematically different or introduce artifacts that could
+    influence scientific conclusions.  Such changes may include
+    hardware or software stack infrastructure differences, replacing
+    parts of the model with ML-routines, or applying data compression
+    to the output data.  In this workshop, we aim to provide a venue
+    to discuss challenges, opportunities, and recent advances in
+    ensuring software correctness and reproducibility for climate and
+    weather modelers, HPC community members, and industry partners.
 
 
     
@@ -131,7 +138,7 @@ program:
 venue:
   title: "Venue"
   text: > 
-        The workshop will be held **virtually** and **in person** at the Mesa Laboratory 
+        The workshop will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
         of the National Center for Atmospheric Research. 
   image: assets/img/ncar_mesa.jpg
   caption: >
