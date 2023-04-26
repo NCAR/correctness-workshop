@@ -13,7 +13,7 @@ header:
   title: November 9-10, 2023
   text:  Workshop on Correctness and Reproducibility for Climate and Weather Software
   button: Submit an Abstract
-  buttonlink: "#submissions"
+  buttonlink: "https://docs.google.com/forms/d/1MzQP1aeUcj4ISginq7MNNvHr-iTtv1rhGI8x9pu9Obo/viewform"
 
 workshop:
   title: "Workshop"
@@ -84,7 +84,7 @@ scope:
 submissions:
   title: "Submissions"
   text: > 
-        Abstract submissions will open soon. Travel support will be provided to a limited number of student applicants upon request.
+        - [Abstract Submission Form](https://docs.google.com/forms/d/1MzQP1aeUcj4ISginq7MNNvHr-iTtv1rhGI8x9pu9Obo/viewform)
 
 registration:
   title: "Registration"
