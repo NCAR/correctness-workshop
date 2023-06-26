@@ -89,9 +89,7 @@ submissions:
 registration:
   title: "Registration"
   text: > 
-         - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScd-HoWsb9X9YZFnfMw7Y6X-BpN3QTgkv4xh8OzYMtyzwAJow/viewform?usp=sf_link)
-             - In person fee: $50
-             - Virtual fee: $25
+         - [Registration form](https://docs.google.com/forms/d/e/1FAIpQLScd-HoWsb9X9YZFnfMw7Y6X-BpN3QTgkv4xh8OzYMtyzwAJow/viewform?usp=sf_link) *(Fees: In person: $50, Virtual: $25)*
 
 dates:
   title: "Dates"
