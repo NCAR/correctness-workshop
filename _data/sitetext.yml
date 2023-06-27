@@ -165,6 +165,16 @@ venue:
 
         Note: Virtual Meeting details will be announced later.
 
+lodging:
+  title: Lodging
+  text: >
+       - **Hilton Garden Inn**
+       - 2701 Canyon Boulevard,
+       - Boulder, CO 80302
+       - *Book by October 19, 2023 ($229/night)*
+       - [Block reservation link](https://www.hilton.com/en/attend-my-event/ncarcorrectnessworkshop/)
+
+
 logos:
   #title: ""
   #text: ""
