@@ -26,5 +26,7 @@ nav:
     section: program
   - title: "Venue"
     section: venue
-  #- title: "Theme Source"
+  - title: "Lodging"
+    section: lodging
+#- title: "Theme Source"
   #  url: https://github.com/raviriley/agency-jekyll-theme/
