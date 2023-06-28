@@ -158,9 +158,7 @@ venue:
   title: "Venue"
   text: > 
         The workshop will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
-        of the National Center for Atmospheric Research.
-
-        -[Helpful things to know for visiting the Mesa Laboratory](https://scied.ucar.edu/visit/things-to-know)
+        of the National Center for Atmospheric Research. ([Helpful things to know for your visit](https://scied.ucar.edu/visit/things-to-know).)
 
   image: assets/img/ncar_mesa.jpg
   caption: >
