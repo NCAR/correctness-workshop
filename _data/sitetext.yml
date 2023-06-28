@@ -128,10 +128,13 @@ organizers:
         - [Karsten Peters-von Gehlen](https://www.dkrz.de/en/about-en/staff/dr-karsten-peters), Department of Data Management, Deutsches Klimarechenzentrum GmbH (DKRZ)
 
 
-        ##### Administrator
+        ##### Administrators
 
 
          - [Taysia Peterson](https://staff.ucar.edu/users/taysia), National Center for Atmospheric Research
+
+         - [Lisa Larson](https://staff.ucar.edu/users/larsonl), National Center for Atmospheric Research
+
 
 program:
   title: "Program"
@@ -155,7 +158,10 @@ venue:
   title: "Venue"
   text: > 
         The workshop will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
-        of the National Center for Atmospheric Research. 
+        of the National Center for Atmospheric Research.
+
+        -[Helpful things to know for visiting the Mesa Laboratory](https://scied.ucar.edu/visit/things-to-know)
+
   image: assets/img/ncar_mesa.jpg
   caption: >
     *<br>As an architectural landmark, the Mesa Laboratory of the National Center for Atmospheric Research
@@ -164,6 +170,7 @@ venue:
         Address: 1850 Table Mesa Dr, Boulder, CO 80305
 
         Note: Virtual Meeting details will be announced later.
+
 
 lodging:
   title: Lodging
