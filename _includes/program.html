@@ -8,7 +8,253 @@
 		  <h3 class="section-subheading text-dark">{{ site.data.sitetext.program.text | markdownify }}</h3>
 		  {% endif %}
         </div>
-      </div>
 	  
+      <head>
+        <style>
+        #schedule {
+          border-collapse: collapse;
+          width: 100%;
+        }
+        
+        #schedule td, #schedule th {
+          border: 1px solid #ddd;
+          padding: 6px;
+        }
+        
+        #schedule tr:nth-child(even){background-color: #f2f2f2;}
+        #schedule tr:hover {background-color: #ddd;}
+        
+        #schedule th {
+          padding-top: 8px;
+          padding-bottom: 8px;
+          text-align: left;
+          background-color: #274e63;
+          color: white;
+        }
+
+        </style>
+        </head>
+        <body>
+        
+        <table id="schedule">
+          <tr>
+            <td colspan="3" style="color: white; background-color: #274e63; padding: 18px;">Thursday November 9th, 2023</td>
+          </tr>
+          <tr>
+            <td>8:30 - 8:40</td>
+            <td><b><i>OPENING REMARKS</i></b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>8:40 - 9:40</td>
+            <td><b>KEYNOTE: </b>Title TBD</td>
+            <td>Steve Easterbrook<br>
+            <i><small>School of the Environment and Department of Computer Science, University of Toronto</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>9:40 - 10:00</td>
+            <td><b>TALK: </b>Component Level Regression Testing in a Hierarchical Architecture</td>
+            <td>Thomas Clune<br>
+            <i><small>NASA Goddard Space Flight Center</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>10:00 - 10:20</td>
+            <td><b>TALK: </b>High Performance Climate and Weather Benchmark (HPCW): a framework for reproducible benchmarks of ESM models and mini-applications</td>
+            <td>David Guibert*<br>
+            <i><small>Center for Excellence in Performance Programming, Eviden</small></i>
+            </td>
+          </tr>
+          <tr style="background-color: #c3c3c3;">
+            <td>10:20 - 10:50</td>
+            <td><b><i>BREAK</i></b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:50 - 11:10</td>
+            <td><b>TALK: </b>Correctness Challenges in HPC and ML</td>
+            <td>Ganesh Gopalakrishnan<br>
+            <i><small>Department of Computer Science, University of Utah</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>11:10 - 11:30</td>
+            <td><b>TALK: </b>Reliable and reproducible Earth System Model data analysis with ESMValTool</td>
+            <td>Valeriu Predoi*<br>
+            <i><small>NCAS-CMS, University of Reading</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>11:30 - 11:50</td>
+            <td><b>TALK: </b>Testing approach for porting legacy 4-mode Modal Aerosol Model (MAM4) to C++/Kokkos</td>
+            <td>Balwinder Singh<br>
+            <i><small>Atmospheric Sciences and Global Change Division, Pacific Northwest National Laboratory</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>11:50 - 12:10</td>
+            <td><b>TALK: </b>Verification of the ICON model with the GT4Py dycore - challenges and insights</td>
+            <td>Abishek Gopal*<br>
+            <i><small>Institute for Atmospheric and Climate Science, ETH Zurich</small></i>
+            </td>
+          </tr>
+          <tr style="background-color: #c3c3c3;">
+            <td>12:10 - 1:10</td>
+            <td><b><i>LUNCH</i></b></td>
+            <td><i>Mesa Lab Cafeteria</i><br>
+            <i><small>Included with Registration</small></i>
+          </tr>
+          <tr>
+            <td>1:10 - 2:10</td>
+            <td><b>KEYNOTE: </b>Earth system models of the future</td>
+            <td>Peter Dueben*<br>
+            <i><small>Earth System Modelling Section, European Centre for Medium Range Weather Forecasts (ECMWF)</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>2:10 - 2:30</td>
+            <td><b>TALK: </b>A Theory of Scientific Programming Efficacy</td>
+            <td>Michael Coblenz<br>
+            <i><small>Department of Computer Science, UC San Diego</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>2:30 - 2:50</td>
+            <td><b>TALK: </b>An overview of the MOM6 development cycle </td>
+            <td>Marshall Ward<br>
+            <i><small>Geophysical Fluid Dynamics Lab, NOAA</small></i>
+            </td>
+          </tr>
+          <tr style="background-color: #c3c3c3;">
+            <td>2:50 - 3:20</td>
+            <td><b><i>BREAK</i></b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>3:20 - 3:40</td>
+            <td><b>TALK: </b>Challenges in Ensuring Reproducibility for Machine Learning Weather Model Training and Deployment</td>
+            <td>David John Gagne<br>
+            <i><small>Computational and Information Systems Lab, NCAR</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>3:40 - 4:00</td>
+            <td><b>TALK: </b>METplus: The Long and Winding Road to Unified Verification</td>
+            <td>Tara Jensen*<br>
+            <i><small>Research Applications Lab, NCAR</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>4:00 - 4:20</td>
+            <td><b>TALK: </b>Unit Testing NCEPLIBS</td>
+            <td>Edward Harnett<br>
+            <i><small>CIRES/NOAA</small></i>
+            </td>
+          </tr>
+          <tr>
+            <td>4:20 - 5:00</td>
+            <td><b><i>OPEN DISCUSSION</i></b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td colspan="3" style="color: white; background-color: #274e63; padding: 18px;">Friday November 10th, 2023</td>
+          </tr>
+          <tr>
+            <td>8:30 - 9:30</td>
+            <td><b>KEYNOTE: </b>Title TBD</td>
+            <td>John Baugh<br>
+            <i><small>Civil Engineering and Operations Research, North Carolina State University</small></i>
+            </td>
+          </tr> 
+          <tr>
+            <td>9:30 - 9:50</td>
+            <td><b>TALK: </b>What could the next 30 years of software verification in climate science look like?</td>
+            <td>Dominic Orchard*<br>
+            <i><small>Department of Computer Science and Technology, University of Cambridge and School of Computing, University of Kent</small></i>
+            </td>
+          </tr> 
+          <tr>
+            <td>9:50 - 10:10</td>
+            <td><b>TALK: </b>Parallel reproducibility of the SHYFEM-MPI model</td>
+            <td>Francesco Carere*<br>
+            <i><small>Euro Mediterranean Center on Climate Change Foundation (CMCC Foundation)</small></i>
+            </td>
+          </tr> 
+          <tr style="background-color: #c3c3c3;">
+            <td>10:10 - 10:40</td>
+            <td><b><i>BREAK</i></b></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>10:40 - 11:40</td>
+            <td><b>KEYNOTE: </b>Title TBD</td>
+            <td>Dorit Hammerling<br>
+            <i><small>Applied Mathematics and Statistics, Colorado School of Mines</small></i>
+            </td>
+          </tr> 
+          <tr>
+            <td>11:40 - 12:00</td>
+            <td><b>TALK: </b>Ensure the correctness and reproducibility in UFS Weather Model CI</td>
+            <td>Jun Wang<br>
+            <i><small>NOAA NWS/EMC</small></i>
+            </td>
+          </tr> 
+          <tr>
+            <td>12:00 - 12:20</td>
+            <td><b>TALK: </b>Methods and Tools for the Application of UF-ECT to New Climate Models</td>
+            <td>Teo Price-Broncucia<br>
+            <i><small>Department of Computer Science University of Colorado Boulder</small></i>
+            </td>
+          </tr> 
+        <tr style="background-color: #c3c3c3;">
+          <td>12:20 - 1:20</td>
+          <td><b><i>LUNCH</i></b></td>
+          <td><i>Mesa Lab Cafeteria</i><br>
+          <i><small>Included with Registration</small></i>
+        </tr>
+        <tr>
+          <td>1:20 - 1:40</td>
+          <td><b>TALK: </b>Towards Ensuring Statistical Climate Reproducibility of Earth System Models in the Exascale Age</td>
+          <td>Salil Mahajin<br>
+          <i><small>Computational Earth Sciences Group, Oakridge National Laboratory</small></i>
+          </td>
+        </tr> 
+        <tr>
+          <td>1:40 - 2:00</td>
+          <td><b>TALK: </b>Improvements in Reproducibility Testing Through False Discovery Rate Correction</td>
+          <td>Michael Kelleher<br>
+          <i><small>Computational Earth Sciences Group, Oakridge National Laboratory</small></i>
+          </td>
+        </tr> 
+        <tr>
+          <td>2:00 - 3:30</td>
+          <td><b>PANEL: </b>Correctness and verification across platforms<br>
+            <b>Panelists:</b> <br>
+            - Ilene Carpenter, Hewlett Packard Enterprise <br>
+            - Karsten Peters-von Gehlen, Deutsches Klimarechenzentrum GmbH (DKRZ) <br>
+            - Ganesh Gopalakrishnan, University of Utah <br>
+            - TBA <br>
+            <b>Moderator:</b> Brian Dobbins, NCAR
+          </td>
+          <td>
+          </td>
+        </tr> 
+        <tr style="background-color: #c3c3c3;">
+          <td>3:30 - 4:00</td>
+          <td><b><i>BREAK</i></b></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>4:00 - 5:00</td>
+          <td><b><i>CLOSING DISCUSSION</i></b></td>
+          <td></td>
+        </tr>
+        </table>
+
+        *Indicates speaker is remote
+
+      </div>
+
     </div>
   </section>
