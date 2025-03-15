@@ -10,182 +10,155 @@
 # English (default)
 # -----------------
 header:
-  title: November 9-10, 2023
-  text:  Workshop on Correctness and Reproducibility for Climate and Weather Software
-  button: Program (Slides & Recordings)
-  buttonlink: "#program"
+  title: November 4-7, 2025
+  text:  2nd Workshop on Correctness and Reproducibility
+
+  
+         for Climate and Weather Software
+
+  text2: "Tutorial: Rigor and Reasoning in Research Software"
+  #button: Submissions
+  #buttonlink: "#submissions"
 
 workshop:
   title: "Workshop"
   text: >
 
-    Model simulations are essential tools for understanding weather and climate.
-    As we adapt to our changing climate, simulation codes inform both our 
-    understanding and policy decisions. These complex software artifacts are 
-    often the result of multiple decades of development. And they are in a state
-    of near-constant development as scientific capabilities advance and 
-    high-performance computing (HPC) technologies evolve.
-
-
-    Given the societal importance of these codes, maintaining confidence and 
-    preserving code quality and reliability is critical. Yet scientific computing 
-    applications are often developed without the use of extensive software 
-    verification tools and techniques. Instead, development practices are typically 
-    dominated by short-term concerns about performance, resources, and project 
-    timelines.
-
-    Technical challenges in running and evaluating climate and weather models
-    further complicate code verification efforts. Given the scale of these models,
-    a thorough correctness evaluation may be prohibitively expensive.
-    It is also customary to require regression tests 
-    to yield bitwise identical results. This requirement
-    is often unmet due to the chaotic nature of climate and weather models and 
-    the large variety of hardware/software environments they are run on. When bitwise
-    identical results cannot be sought, field experts are to evaluate model results
-    in a time-consuming and subjective manner. 
-
-
-    In short, climate and weather modeling communities are in need of
-    practical and feasible means of ensuring correctness and
-    reproducibility.  For example, we are interested in means to
-    easily assess whether changes to a model code result in output
-    that is systematically different or introduce artifacts that could
-    influence scientific conclusions.  Such changes may include
-    hardware or software stack infrastructure differences, replacing
-    parts of the model with ML-routines, or applying data compression
-    to the output data.  In this workshop, we aim to provide a venue
-    to discuss challenges, opportunities, and recent advances in
-    ensuring software correctness and reproducibility for climate and
-    weather modelers, HPC community members, and industry partners.
-
-
+    We are excited to announce the second edition of the Workshop on
+    Correctness and Reproducibility for Climate and Weather Software,
+    to be held on **November 4-7, 2025** at the Mesa Laboratory of the
+    NSF National Center for Atmospheric Research (NCAR) in Boulder, Colorado.
+    This workshop is a follow-up to the [**inaugural workshop**](https://ncar.github.io/correctness-workshop-2023/) held in
+    November 2023, which brought together climate and weather modelers,
+    software engineers, and researchers to discuss the challenges and
+    opportunities in ensuring software correctness and reproducibility
+    for climate and weather simulation codes.
     
-scope:
-  title: "Scope"
+
+    This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
+    which will provide participants with practical tools and techniques
+    for improving the correctness and reproducibility of their software.
+    The workshop will also include invited talks, panel discussions,
+    and contributed presentations on a wide range of topics related to
+    software correctness and reproducibility.
+
+
+    **Call for Abstracts:**
+
+    We invite contributions from researchers, software engineers, and practitioners
+    in the climate and weather simulation community, as well as the broader scientific
+    computing community. Topics include:
+
+      - Testing, debugging, QA, and CI tools
+      - Statistical and ensemble-based validation
+      - Software design for correctness and reproducibility
+      - Automated reasoning, formal methods, and verification techniques
+      - Validation of HPC, cloud, heterogeneous, and GPU-based applications
+      - Other verification and validation approaches
+
+    Relevant applications include simulation codes, external libraries, AI techniques, diagnostics, packaging, and development practices.
+
+
+tutorial:
+  title: "Tutorial"
   text: > 
-        Topics of interest include but not limited to:
-          - Tools and approaches for software testing, debugging, quality assurance, and continuous integration.
-          - Statistical and ensemble-based approaches for evaluating model consistency and software correctness.
-          - Software design approaches and development practices for streamlining correctness and reproducibility efforts.
-          - Formal methods, abstraction, and logical proof techniques for rigorous verification.
-          - Verifying and validating large-scale applications running on HPC clusters, cloud computing systems, heterogeneous systems, GPUs, etc.
-          - Other software correctness and reproducibility approaches for facilitating verification and validation.
 
-        Submissions may include technical results, approaches, experiences, and opinions 
-        involving one or more of the above topics applied to:
+      To be held in conjunction with the workshop, the **Tutorial on Rigor and Reasoning in Research Software** will focus on
+      practical and novel techniques for improving software quality and reliability in scientific computing. The tutorial
+      will address the critical need for reliable and accurate scientific software. The tutorial will cover core topics such as unit
+      testing, continuous integration (CI), property-based testing, correctness in AI, and reasoning in research software,
+      with practical examples drawn from climate modeling, data analysis, and similar applications. Participants will learn
+      how to validate code, check software properties, and reason about high-level design in Python, with concepts broadly
+      applicable to other scientific computing languages like Fortran and C++. 
 
-          - Climate and weather simulation codes such as drivers, couplers, frameworks, and model components.
-          - External libraries and packages used in climate and weather simulation applications.
-          - Artificial intelligence techniques, such as machine learning and deep learning, applied to climate and weather software.
-          - Diagnostics, post-processing, visualization tools, and libraries.
-          - Packaging, environment management, version control, and porting techniques for facilitating reproducibility.
-          - Other software development and approaches extensively used within the climate and weather simulation context.
+
+      We will offer travel support to students and early-career researchers through an application process.
+      More details will be provided soon.
+
+
+      This tutorial is sponsored by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows).
 
 submissions:
   title: "Submissions"
   text: > 
-        - Submissions are closed. 
+        - Submissions will be accepted soon for contributed talks.
 
 registration:
   title: "Registration"
   text: > 
-         - [**Registration Form**](https://docs.google.com/forms/d/e/1FAIpQLScd-HoWsb9X9YZFnfMw7Y6X-BpN3QTgkv4xh8OzYMtyzwAJow/viewform?usp=sf_link) *(In person fee: $50, Virtual fee: $25)*
+         - Registration for both the workshop and tutorial will open in summer 2025.
 
 dates:
   title: "Dates"
   text: > 
 
-      - Abstract submissions due: **EXTENDED to August 7, 2023**.
+      - Abstract submissions due: TBD
 
-      - Notification of acceptance: August 31, 2023.
+      - Notification of acceptance: TBD
 
-      - Registration deadline: October 20, 2023 (in person), November 3, 2023 (virtual)
+      - Registration deadlines:
+          - Tutorial: TBD
+          - Workshop: TBD
 
-      - Workshop date: November 9-10, 2023.
+      - Tutorial date (tentative): November 4-5, 2025.
+
+      - Workshop date: November 6-7, 2025.
 
 organizers:
   title: "Organizers"
   text: > 
         ##### Co-chairs
 
-        - [Allison Baker](https://staff.ucar.edu/users/abaker), Computational & Information Systems Lab, National Center for Atmospheric Research
+        - [Allison Baker](https://staff.ucar.edu/users/abaker), Computational & Information Systems Lab, NSF National Center for Atmospheric Research
 
-        - [Alper Altuntas](https://staff.ucar.edu/users/altuntas), Climate & Global Dynamics Lab, National Center for Atmospheric Research
+        - [Alper Altuntas](https://staff.ucar.edu/users/altuntas), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
 
 
         ##### Committee
 
         - [Ilene Carpenter](https://www.linkedin.com/in/ilene-carpenter-9a15511/), Earth Sciences Segment Manager, Hewlett Packard Enterprise
 
-        - [Brian Dobbins](https://staff.ucar.edu/users/bdobbins), Climate & Global Dynamics Lab, National Center for Atmospheric Research
+        - [Brian Dobbins](https://staff.ucar.edu/users/bdobbins), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
 
-        - [Michael Duda](https://staff.ucar.edu/users/duda), Mesoscale & Microscale Meteorology Lab, National Center for Atmospheric Research
-
-        - [Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit), Applied Mathematics and Statistics, Colorado School of Mines
-
-        - [Thomas Hauser](https://staff.ucar.edu/users/thauser), Computational & Information Systems Lab, National Center for Atmospheric Research
+        - [Michael Duda](https://staff.ucar.edu/users/duda), Mesoscale & Microscale Meteorology Lab, NSF National Center for Atmospheric Research
 
         - [Karsten Peters-von Gehlen](https://www.dkrz.de/en/about-en/staff/dr-karsten-peters), Department of Data Management, Deutsches Klimarechenzentrum GmbH (DKRZ)
 
+        - [Ganesh Gopalakrishnan](https://users.cs.utah.edu/~ganesh/), Kahlert School of Computing, University of Utah
 
-        ##### Administrators
+        - [Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit), Applied Mathematics and Statistics, Colorado School of Mines
 
-         - [Taysia Peterson](https://staff.ucar.edu/users/taysia), National Center for Atmospheric Research
-         - [Lisa Larson](https://staff.ucar.edu/users/larsonl), National Center for Atmospheric Research
+        - [Balwinder Singh](https://www.pnnl.gov/people/balwinder-singh), Atmospheric Sciences and Global Change, Pacific Northwest National Laboratory
 
 
 program:
   title: "Program"
   text: > 
+
+        Tutorial program details will be announced in late summer 2025.
+
+
+        Workshop program details will be announced in early summer 2025.
+
+
+        You can find the program for the inaugural workshop held in 2023 [here](https://ncar.github.io/correctness-workshop-2023/).
         
-        - [**Link to Full Agenda (pdf)**](assets/ws_agenda.pdf)
-
-        - [**Link to Abstracts (pdf)**](assets/AbstractDocument.pdf)
-
-        - [**Participant list (pdf)**](assets/participants.pdf)
-
-
-        ##### Keynote Speakers:
-
-         - [John Baugh](https://www.ccee.ncsu.edu/people/jwb/): Professor, Civil Engineering and Operations Research; North Carolina State University
-         - [Peter Dueben](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/peter-dueben): Head of the Earth System Modelling Section, European Centre for Medium Range Weather Forecasts (ECMWF)
-         - [Steve Easterbrook](https://www.cs.toronto.edu/~sme/): Director, School of the Environment; Professor, Department of Computer Science; University of Toronto
-         - [Dorit Hammerling](https://ams.mines.edu/project/hammerling-dorit): Associate Professor, Applied Mathematics and Statistics; Colorado School of Mines
-
-        ##### Recordings:
-
-         - [**Day 1**](https://youtu.be/v-XEwZS1bQI)
-         - [**Day 2**](https://youtu.be/7Gbw_4LUsYc)
-
          
 venue:
   title: "Venue"
   text: > 
-        The workshop will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
-        of the National Center for Atmospheric Research. ([Helpful things to know for your visit](https://scied.ucar.edu/visit/things-to-know).)
+        Both the workshop and tutorial will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
+        of the NSF National Center for Atmospheric Research. ([Helpful things to know for your visit](https://scied.ucar.edu/visit/things-to-know).)
 
-  image: assets/img/ncar_mesa.jpg
-  caption: >
-    *<br>As an architectural landmark, the Mesa Laboratory of the National Center for Atmospheric Research
-    is located atop Table Mesa at the west end of Boulder, Colorado, and is recognized as one of the major works of architect I.M. Pei.*
+        - Address: 1850 Table Mesa Dr, Boulder, CO 80305
 
-        Address: 1850 Table Mesa Dr, Boulder, CO 80305
-
-        Note: Virtual Meeting details will be announced later.
+        - Virtual Meeting details will be announced later.
 
 
 lodging:
   title: Lodging
   text: >
-       - **Hilton Garden Inn**
-       (2701 Canyon Boulevard,
-       Boulder, CO 80302)
-       
-       - *Book by October 19, 2023 ($229/night)*
-       
-       - [Block reservation link](https://www.hilton.com/en/attend-my-event/ncarcorrectnessworkshop/)
-
-       - Note: We will arrange shared transportation from the hotel to the Mesa Lab each morning and returning each afternoon for guests who need it (more info to come).  
+        - Details will be provided soon for lodging options.
 
 logos:
   #title: ""
@@ -194,30 +167,19 @@ logos:
 
 footer:
   text: >
-    #### Code of Conduct
-
-    UCAR and NCAR are committed to providing a safe, productive, and welcoming environment 
-    for all participants in any conference, workshop, field project or project hosted or 
-    managed by UCAR, no matter what role they play or their background. This includes 
-    respectful treatment of everyone regardless of gender, gender identity or expression, 
-    sexual orientation, disability, physical appearance, age, body size, race, religion,
-    national origin, ethnicity, level of experience, political affiliation, veteran status,
-    pregnancy, genetic information, as well as any other characteristic protected under 
-    state or federal law.
 
     ##### Funding
 
-    President’s Strategic Initiative Fund (PSIF) of
-    University Corporation for Atmosperic Research (UCAR) --- 
-    Computational & Information Systems Laboratory (CISL) of
-    National Center for Atmospheric Research (NCAR) --- 
-    Climate & Global Dynamics Laboratory (CGD) of NCAR.
+    2025 Better Scientific Software Fellowship Program
+    
+    Computational & Information Systems Laboratory (CISL) and Climate & Global Dynamics Laboratory (CGD) of NSF NCAR.
 
 
     -------------------
 
+    2025 Workshop on Correctness and Reproducibility for Climate and Weather Software
 
-    **2023 Workshop on Correctness and Reproducibility for Climate and Weather Software**
+    Tutorial on Rigor and Reasoning in Research Software
   #legal: "Privacy Policy"
   #social:
   #  - url: https://twitter.com
