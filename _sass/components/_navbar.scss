@@ -28,12 +28,14 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: white;
+        text-decoration: underline;
+        font-weight: bold;
+        color: rgb(190, 210, 0);
         text-shadow: 2px 2px 4px #030303;
         @include heading-font;
         &.active,
         &:hover {
-          color: rgb(205, 205, 205);
+          color: rgb(225, 240, 0);
         }
       }
     }

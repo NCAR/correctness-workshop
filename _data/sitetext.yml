@@ -33,12 +33,13 @@ workshop:
     software engineers, and researchers to discuss the challenges and
     opportunities in ensuring software correctness and reproducibility
     for climate and weather simulation codes.
-    
+  
 
     This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
-    which will provide participants with practical tools and techniques
-    for improving the correctness and reproducibility of their software.
-    The workshop will also include invited talks, panel discussions,
+    which will include sessions on practical techniques for improving software quality
+    and reliability in scientific computing. The tutorial will cover core topics such as
+    unit testing, continuous integration (CI), property-based testing, correctness in AI,
+    and reasoning in research software. The workshop will also include invited talks, panel discussions,
     and contributed presentations on a wide range of topics related to
     software correctness and reproducibility.
 
@@ -64,8 +65,8 @@ tutorial:
   text: > 
 
       To be held in conjunction with the workshop, the **Tutorial on Rigor and Reasoning in Research Software** will focus on
-      practical and novel techniques for improving software quality and reliability in scientific computing. The tutorial
-      will address the critical need for reliable and accurate scientific software. The tutorial will cover core topics such as unit
+      practical and novel techniques for improving software quality and reliability in scientific computing.
+      The tutorial will cover core topics such as unit
       testing, continuous integration (CI), property-based testing, correctness in AI, and reasoning in research software,
       with practical examples drawn from climate modeling, data analysis, and similar applications. Participants will learn
       how to validate code, check software properties, and reason about high-level design in Python, with concepts broadly
@@ -109,18 +110,18 @@ organizers:
   text: > 
         ##### Co-chairs
 
-        - [Allison Baker](https://staff.ucar.edu/users/abaker), Computational & Information Systems Lab, NSF National Center for Atmospheric Research
+        - [Allison Baker](https://www.cisl.ucar.edu/directory/allison-baker), Computational & Information Systems Lab, NSF National Center for Atmospheric Research
 
-        - [Alper Altuntas](https://staff.ucar.edu/users/altuntas), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
+        - [Alper Altuntas](https://www.cgd.ucar.edu/people/alper-altuntas), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
 
 
         ##### Committee
 
         - [Ilene Carpenter](https://www.linkedin.com/in/ilene-carpenter-9a15511/), Earth Sciences Segment Manager, Hewlett Packard Enterprise
 
-        - [Brian Dobbins](https://staff.ucar.edu/users/bdobbins), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
+        - [Brian Dobbins](https://www.cgd.ucar.edu/people/brian-dobbins), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
 
-        - [Michael Duda](https://staff.ucar.edu/users/duda), Mesoscale & Microscale Meteorology Lab, NSF National Center for Atmospheric Research
+        - [Michael Duda](https://www.mmm.ucar.edu/about/people/michael-duda), Mesoscale & Microscale Meteorology Lab, NSF National Center for Atmospheric Research
 
         - [Karsten Peters-von Gehlen](https://www.dkrz.de/en/about-en/staff/dr-karsten-peters), Department of Data Management, Deutsches Klimarechenzentrum GmbH (DKRZ)
 
@@ -135,18 +136,17 @@ program:
   title: "Program"
   text: > 
 
-        Tutorial program details will be announced in late summer 2025.
-
-
-        Workshop program details will be announced in early summer 2025.
-
-
+        Program details will be announced in summer 2025. 
         You can find the program for the inaugural workshop held in 2023 [here](https://ncar.github.io/correctness-workshop-2023/).
-        
+
+  image: assets/img/banner_program.png        
          
 venue:
   title: "Venue"
   text: > 
+        ![CW2025](assets/img/CW23.jpg){: width="100%"}
+
+
         Both the workshop and tutorial will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
         of the NSF National Center for Atmospheric Research. ([Helpful things to know for your visit](https://scied.ucar.edu/visit/things-to-know).)
 
@@ -154,16 +154,15 @@ venue:
 
         - Virtual Meeting details will be announced later.
 
-
 lodging:
   title: Lodging
   text: >
         - Details will be provided soon for lodging options.
 
-logos:
-  #title: ""
-  #text: ""
-  image: assets/img/ncar_banner2.jpg
+#logos:
+#  #title: ""
+#  #text: ""
+#  image: assets/img/ncar_banner2.jpg
 
 footer:
   text: >

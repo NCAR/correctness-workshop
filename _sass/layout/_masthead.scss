@@ -26,6 +26,14 @@ header.masthead {
       margin-bottom: 25px;
       @include heading-font;
     }
+    .intro-heading2 {
+      font-size: 28px;
+      font-weight: 400;
+      text-shadow: 4px 4px 8px #242424;
+      line-height: 10px;
+      margin-bottom: 25px;
+      @include heading-font;
+    }
   }
 }
 @media (min-width: 768px) {
@@ -43,6 +51,14 @@ header.masthead {
         font-size: 32px;
         font-weight: 600;
         line-height: 15px;
+        margin-bottom: 4px;
+        @include heading-font;
+      }
+      .intro-heading2 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 15px;
+        margin-top: 15px;
         margin-bottom: 4px;
         @include heading-font;
       }
