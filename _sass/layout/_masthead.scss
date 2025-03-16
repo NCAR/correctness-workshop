@@ -40,9 +40,9 @@ header.masthead {
   header.masthead {
     .intro-text {
       padding-top: 100px;
-      padding-bottom: 40px;
+      padding-bottom: 30px;
       .intro-lead-in {
-        font-size: 22px;
+        font-size: 20px;
         font-style: italic;
         margin-bottom: 2px;
         @include serif-font;
@@ -50,7 +50,7 @@ header.masthead {
       .intro-heading {
         font-size: 32px;
         font-weight: 600;
-        line-height: 15px;
+        line-height: 1;
         margin-bottom: 4px;
         @include heading-font;
       }
