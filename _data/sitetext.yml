@@ -28,12 +28,18 @@ workshop:
     Correctness and Reproducibility for Climate and Weather Software,
     to be held on **November 4-7, 2025** at the Mesa Laboratory of the
     NSF National Center for Atmospheric Research (NCAR) in Boulder, Colorado.
+    We aim to provide a dedicated forum for climate and weather modelers, 
+    software engineers, and the broader scientific software community to discuss
+    challenges, opportunities, and recent advances in ensuring software correctness and reproducibility.
+
+
     This workshop is a follow-up to the [**inaugural workshop**](https://ncar.github.io/correctness-workshop-2023/) held in
-    November 2023, which brought together climate and weather modelers,
-    software engineers, and researchers to discuss the challenges and
-    opportunities in ensuring software correctness and reproducibility
-    for climate and weather simulation codes.
+    November 2023, which brought together participants from academia, research labs, and industry to
+    share their experiences and insights on software correctness and reproducibility.
   
+
+    ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
+
 
     This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
     which will include sessions on practical techniques for improving software quality
@@ -144,15 +150,14 @@ program:
 venue:
   title: "Venue"
   text: > 
-        ![CW2025](assets/img/CW23.jpg){: width="100%"}
-
-
         Both the workshop and tutorial will be held **in person** (with a **virtual** option) and  at the Mesa Laboratory 
         of the NSF National Center for Atmospheric Research. ([Helpful things to know for your visit](https://scied.ucar.edu/visit/things-to-know).)
 
         - Address: 1850 Table Mesa Dr, Boulder, CO 80305
 
         - Virtual Meeting details will be announced later.
+
+  image: assets/img/ncar_mesa.jpg
 
 lodging:
   title: Lodging
