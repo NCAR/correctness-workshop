@@ -38,9 +38,6 @@ workshop:
     share their experiences and insights on software correctness and reproducibility.
   
 
-    ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
-
-
     This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
     which will include sessions on practical techniques for improving software quality
     and reliability in scientific computing. The tutorial will cover core topics such as
@@ -145,7 +142,9 @@ program:
         Program details will be announced in summer 2025. 
         You can find the program for the inaugural workshop held in 2023 [here](https://ncar.github.io/correctness-workshop-2023/).
 
-  image: assets/img/banner_program.png        
+        ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
+
+
          
 venue:
   title: "Venue"
