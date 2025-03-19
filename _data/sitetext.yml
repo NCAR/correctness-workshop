@@ -156,7 +156,8 @@ venue:
 
         - Virtual Meeting details will be announced later.
 
-  image: assets/img/ncar_mesa.jpg
+          ![CW2025](assets/img/ncar_mesa.jpg){: width="50%" style="padding: 20px; display: block; margin-left: auto; margin-right: auto;"}
+
 
 lodging:
   title: Lodging
