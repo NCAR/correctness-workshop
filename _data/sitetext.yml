@@ -10,7 +10,7 @@
 # English (default)
 # -----------------
 header:
-  title: November 4-7, 2025
+  title: November 5-7, 2025
   text:  2nd Workshop on Correctness and Reproducibility
 
   
@@ -26,7 +26,7 @@ workshop:
 
     We are excited to announce the second edition of the Workshop on
     Correctness and Reproducibility for Climate and Weather Software,
-    to be held on **November 4-7, 2025** at the Mesa Laboratory of the
+    to be held on **November 5-7, 2025** at the Mesa Laboratory of the
     NSF National Center for Atmospheric Research (NCAR) in Boulder, Colorado.
     We aim to provide a dedicated forum for climate and weather modelers, 
     software engineers, and the broader scientific software community to discuss
@@ -85,7 +85,7 @@ tutorial:
 submissions:
   title: "Submissions"
   text: > 
-        - Submissions will be accepted soon for contributed talks.
+        - Submissions for contributed talks will be accepted in early summer.
 
 registration:
   title: "Registration"
@@ -100,13 +100,9 @@ dates:
 
       - Notification of acceptance: TBD
 
-      - Registration deadlines:
-          - Tutorial: TBD
-          - Workshop: TBD
+      - Registration deadlines: TBD
 
-      - Tutorial date (tentative): November 4-5, 2025.
-
-      - Workshop date: November 6-7, 2025.
+      - Workshop and Tutorial dates: November 5-7, 2025.
 
 organizers:
   title: "Organizers"
@@ -144,7 +140,8 @@ program:
         Program details will be announced in summer 2025. 
         You can find the program for the inaugural workshop held in 2023 [here](https://ncar.github.io/correctness-workshop-2023/).
 
-        ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
+          ![CW2025](assets/img/program_overview.png){: width="60%" style="padding: 0px; display: block; margin-left: 40px;"}
+
 
 
          
@@ -158,7 +155,9 @@ venue:
 
         - Virtual Meeting details will be announced later.
 
-          ![CW2025](assets/img/ncar_mesa.jpg){: width="50%" style="padding: 20px; display: block; margin-left: auto; margin-right: auto;"}
+          ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
+
+          ![CW2025](assets/img/ncar_mesa.jpg){: width="50%" style="padding: 10px; display: block; margin-left: auto; margin-right: auto;"}
 
 
 lodging:
