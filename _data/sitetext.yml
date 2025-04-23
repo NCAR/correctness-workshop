@@ -14,7 +14,7 @@ header:
   text:  2nd Workshop on Correctness and Reproducibility
 
   
-         for Climate and Weather Software
+         for Earth System Software
 
   text2: "Tutorial: Rigor and Reasoning in Research Software"
   #button: Submissions
@@ -25,14 +25,12 @@ workshop:
   text: >
 
     We are excited to announce the second edition of the Workshop on
-    Correctness and Reproducibility for Climate and Weather Software,
+    Correctness and Reproducibility for Earth System Software,
     to be held on **November 5-7, 2025** at the Mesa Laboratory of the
     NSF National Center for Atmospheric Research (NCAR) in Boulder, Colorado.
-    We aim to provide a dedicated forum for climate and weather modelers, 
+    We aim to provide a dedicated forum for earth system modelers, 
     software engineers, and the broader scientific software community to discuss
     challenges, opportunities, and recent advances in ensuring software correctness and reproducibility.
-
-
     This workshop is a follow-up to the [**inaugural workshop**](https://ncar.github.io/correctness-workshop-2023/) held in
     November 2023, which brought together participants from academia, research labs, and industry to
     share their experiences and insights on software correctness and reproducibility.
@@ -51,7 +49,7 @@ workshop:
     **Call for Abstracts:**
 
     We invite contributions from researchers, software engineers, and practitioners
-    in the climate and weather simulation community, as well as the broader scientific
+    in the Earth System Modeling (ESM) community, as well as the broader scientific
     computing community. Topics include:
 
       - Testing, debugging, QA, and CI tools
@@ -72,7 +70,7 @@ tutorial:
       practical and novel techniques for improving software quality and reliability in scientific computing.
       The tutorial will cover core topics such as unit
       testing, continuous integration (CI), property-based testing, correctness in AI, and reasoning in research software,
-      with practical examples drawn from climate modeling, data analysis, and similar applications. Participants will learn
+      with practical examples drawn from earth system modeling, data analysis, and similar applications. Participants will learn
       how to validate code, check software properties, and reason about high-level design in Python, with concepts broadly
       applicable to other scientific computing languages like Fortran and C++. 
 
@@ -81,7 +79,7 @@ tutorial:
       More details will be provided soon.
 
 
-      This tutorial is led by Alper Altuntas, with support from the 
+      This tutorial is led by Alper Altuntas with support from the 
       [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows).
 
 submissions:
@@ -111,9 +109,9 @@ organizers:
   text: > 
         ##### Co-chairs
 
-        - [Allison Baker](https://www.cisl.ucar.edu/directory/allison-baker), Computational & Information Systems Lab, NSF National Center for Atmospheric Research
+        - [Allison Baker](https://www.cisl.ucar.edu/directory/allison-baker), CISL, NSF National Center for Atmospheric Research
 
-        - [Alper Altuntas](https://www.cgd.ucar.edu/people/alper-altuntas), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
+        - [Alper Altuntas](https://www.cgd.ucar.edu/people/alper-altuntas), CGD, NSF National Center for Atmospheric Research
 
 
         ##### Committee
@@ -122,7 +120,7 @@ organizers:
 
         - [Ilene Carpenter](https://www.linkedin.com/in/ilene-carpenter-9a15511/), Earth Sciences Segment Manager, Hewlett Packard Enterprise
 
-        - [Brian Dobbins](https://www.cgd.ucar.edu/people/brian-dobbins), Climate & Global Dynamics Lab, NSF National Center for Atmospheric Research
+        - [Brian Dobbins](https://www.cgd.ucar.edu/people/brian-dobbins), CGD, NSF National Center for Atmospheric Research
 
         - [Michael Duda](https://www.mmm.ucar.edu/about/people/michael-duda), Mesoscale & Microscale Meteorology Lab, NSF National Center for Atmospheric Research
 
@@ -178,15 +176,15 @@ footer:
 
     ##### Funding
 
-    Tutorial sponsored by the 2025 Better Scientific Software Fellowship Program
+    The tutorial sponsored by the 2025 Better Scientific Software Fellowship Program
 
     
-    Workshop: Computational & Information Systems Laboratory (CISL) and Climate & Global Dynamics Laboratory (CGD) of NSF NCAR.
+    The workshop is funded by the CISL and CGD laboratories at the NSF National Center for Atmospheric Research (NCAR).
 
 
     -------------------
 
-    2025 Workshop on Correctness and Reproducibility for Climate and Weather Software 
+    2025 Workshop on Correctness and Reproducibility for Earth System Software
   #legal: "Privacy Policy"
   #social:
   #  - url: https://twitter.com

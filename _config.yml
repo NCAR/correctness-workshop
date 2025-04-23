@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://ncar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/correctness-workshop" # the subpath of your site, e.g. /blog
 
-title      : Correctness and Reproducibility for Climate and Weather Software
+title      : Correctness and Reproducibility for Earth System Software
 email      : your-email@example.com #this is also the email contact forms will go to
-description: "2025 Workshop on Correctness and Reproducibility for Climate and Weather Software"
+description: "2025 Workshop on Correctness and Reproducibility for Earth System Software"
 author     : NCAR
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
