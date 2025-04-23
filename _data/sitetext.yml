@@ -39,6 +39,7 @@ workshop:
   
 
     This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
+    sponsored by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows),
     which will include sessions on practical techniques for improving software quality
     and reliability in scientific computing. The tutorial will cover core topics such as
     unit testing, continuous integration (CI), property-based testing, correctness in AI,
