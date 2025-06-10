@@ -17,8 +17,8 @@ header:
          for Earth System Software
 
   text2: "Tutorial: Rigor and Reasoning in Research Software"
-  #button: Submissions
-  #buttonlink: "#submissions"
+  button: Abstract Submission Form
+  buttonlink: https://docs.google.com/forms/d/e/1FAIpQLSdnaYDA6I3EIz5iybK_bAut0BwGXpsbR6JSaiwXUHo5mfbegQ/viewform?usp=header
 
 workshop:
   title: "Workshop"
@@ -36,8 +36,8 @@ workshop:
     share their experiences and insights on software correctness and reproducibility.
   
 
-    This year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
-    sponsored by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows),
+    Sponsored by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/pages/bssw-fellowship-program),
+    this year's workshop will feature a **Tutorial on Rigor and Reasoning in Research Software**,
     which will include sessions on practical techniques for improving software quality
     and reliability in scientific computing. The tutorial will cover core topics such as
     unit testing, continuous integration (CI), property-based testing, correctness in AI,
@@ -85,7 +85,8 @@ tutorial:
 submissions:
   title: "Submissions"
   text: > 
-        - Submissions for contributed talks will be accepted in early summer.
+       - [Click here to submit your abstract](https://docs.google.com/forms/d/e/1FAIpQLSdnaYDA6I3EIz5iybK_bAut0BwGXpsbR6JSaiwXUHo5mfbegQ/viewform?usp=header)
+        
 
 registration:
   title: "Registration"
@@ -96,7 +97,7 @@ dates:
   title: "Dates"
   text: > 
 
-      - Abstract submissions due: TBD
+      - Abstract submissions due: July 25, 2025.
 
       - Notification of acceptance: TBD
 
@@ -174,12 +175,14 @@ lodging:
 footer:
   text: >
 
-    ##### Funding
+    ##### Acknowledgement
 
-    The tutorial sponsored by the 2025 Better Scientific Software Fellowship Program
-
-    
-    The workshop is funded by the CISL and CGD laboratories at the NSF National Center for Atmospheric Research (NCAR).
+    This work was supported by the Better Scientific Software Fellowship Program,
+    a collaborative effort of the U.S. Department of Energy (DOE), Office of Advanced
+    Scientific Computing Research via ANL under Contract DE-AC02-06CH11357 and the 
+    National Nuclear Security Administration Advanced Simulation and Computing Program
+    via LLNL under Contract DE-AC52-07NA27344; and by the National Science Foundation 
+    (NSF) via SHI under Grant No. 2435328.
 
 
     -------------------
