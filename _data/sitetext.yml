@@ -17,7 +17,7 @@ header:
          for Earth System Software
 
   text2: "Tutorial: Rigor and Reasoning in Research Software"
-  button: Register
+  button: Registration Form
   buttonlink: https://www.eventsquid.com/event/28895
 
 workshop:
@@ -79,8 +79,8 @@ tutorial:
       More details will be provided soon.
 
 
-      This tutorial is led by Alper Altuntas with support from the 
-      [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows).
+      This tutorial is led by Alper Altuntas, features guest lecturers from academia and industry,
+      and is supported by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows).
 
 submissions:
   title: "Submissions"
@@ -91,9 +91,12 @@ submissions:
 registration:
   title: "Registration"
   text: > 
-         - Click [here](https://www.eventsquid.com/event/28895) to register.
-         - Registration Fees: $80 (in-person), $25 (virtual)
-         - Travel Support: Available for a limited number of participants. Indicate your interest in the registration form.
+
+         - [**Registration form**](https://www.eventsquid.com/event/28895).
+
+         - In-person fee: $80, Virtual fee: $25
+
+         - Travel Support: Available for a limited number of student / early career participants. Indicate your interest in the registration form.
 
 dates:
   title: "Dates"
@@ -169,15 +172,13 @@ venue:
 
           ![CW2025](assets/img/CW23.jpg){: width="100%" style="padding: 20px;"}
 
-          ![CW2025](assets/img/ncar_mesa.jpg){: width="50%" style="padding: 10px; display: block; margin-left: auto; margin-right: auto;"}
-
 
 lodging:
   title: Lodging
   text: >
         - Fairfield by Marriott Inn & Suites Boulder
-          - $99/night, Book by October 22, 2025
-          - [Booking Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1756234161847&key=GRP)
+          - [Reservation Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1756234161847&key=GRP) 
+          - $99/night, Book by October 22, 2025.
 
 #logos:
 #  #title: ""
