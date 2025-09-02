@@ -17,8 +17,8 @@ header:
          for Earth System Software
 
   text2: "Tutorial: Rigor and Reasoning in Research Software"
-  #button: Submit Abstract
-  #buttonlink: https://docs.google.com/forms/d/e/1FAIpQLSdnaYDA6I3EIz5iybK_bAut0BwGXpsbR6JSaiwXUHo5mfbegQ/viewform?usp=header
+  button: Register
+  buttonlink: https://www.eventsquid.com/event/28895
 
 workshop:
   title: "Workshop"
@@ -91,7 +91,9 @@ submissions:
 registration:
   title: "Registration"
   text: > 
-         - Registration will open in August 2025.
+         - Click [here](https://www.eventsquid.com/event/28895) to register.
+         - Registration Fees: $80 (in-person), $25 (virtual)
+         - Travel Support: Available for a limited number of participants. Indicate your interest in the registration form.
 
 dates:
   title: "Dates"
@@ -101,7 +103,9 @@ dates:
 
       - Notification of acceptance: August 22, 2025.
 
-      - Registration deadlines: TBD
+      - Travel Support application deadline: September 29, 2025.
+
+      - Registration deadline: October 20, 2025 (in person), October 31, 2025 (virtual).
 
       - Workshop and Tutorial dates: November 5-7, 2025.
 
@@ -171,7 +175,9 @@ venue:
 lodging:
   title: Lodging
   text: >
-        - Details will be provided soon for lodging options.
+        - Fairfield by Marriott Inn & Suites Boulder
+          - $99/night, Book by October 22, 2025
+          - [Booking Link](https://www.marriott.com/event-reservations/reservation-link.mi?guestreslink2=true&id=1756234161847&key=GRP)
 
 #logos:
 #  #title: ""
