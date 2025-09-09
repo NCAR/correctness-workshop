@@ -19,6 +19,8 @@ header:
   text2: "Tutorial: Rigor and Reasoning in Research Software"
   button: Registration Form
   buttonlink: https://www.eventsquid.com/event/28895
+  button2: Program
+  buttonlink2: https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true
 
 workshop:
   title: "Workshop"
@@ -66,26 +68,47 @@ tutorial:
   title: "Tutorial"
   text: > 
 
-      To be held in conjunction with the workshop, the **Tutorial on Rigor and Reasoning in Research Software** will focus on
-      practical and novel techniques for improving software quality and reliability in scientific computing.
-      The tutorial will cover core topics such as unit
-      testing, continuous integration (CI), property-based testing, correctness in AI, and reasoning in research software,
-      with practical examples drawn from earth system modeling, data analysis, and similar applications. Participants will learn
-      how to validate code, check software properties, and reason about high-level design in Python, with concepts broadly
-      applicable to other scientific computing languages like Fortran and C++. 
+    Join us for a hands-on tutorial on bringing _rigor and reasoning_ to research software (R3Sw).
+    The R3Sw Tutorial runs primarily on **Day 1** (November 5, 2025), with optional sessions on **Days 2–3**.
+    See the [tentative program](https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true)
+    for more details.
 
 
-      We will offer travel support to students and early-career researchers through an application process.
-      More details will be provided soon.
+    **Motivation.** Scientific software enables critical research, yet it’s often built in a “code-and-fix” 
+    style: quick to prototype, hard to test, and difficult to reason about. The R3Sw Tutorial draws inspiration
+    from the scientific method, introducing practical techniques for designing and verifying code with the same
+    rigor and systematic reasoning that underpin trustworthy scientific discovery.
 
 
-      This tutorial is led by Alper Altuntas, features guest lecturers from academia and industry,
-      and is supported by the [2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows).
+    **What you’ll do.** Working through a running example (1-D heat equation), you’ll incrementally transform
+    an unstructured, monolithic code into modular, testable, and trustworthy code.
+
+
+    **Key topics:**
+
+      - **Designing for robustness:** specifications, preconditions, postconditions, invariants  
+      - **Unit testing with `pytest`**  
+      - **Property-based testing with `Hypothesis`**  
+      - **Symbolic & bounded checking with `CrossHair`**  
+      - **Practical strategies** for testing real-world scientific code and verifying AI/ML-generated code
+
+  
+    **Who should attend?** This tutorial is intended for scientists, engineers, and students involved 
+    in scientific computing, regardless of domain or career stage. No prior experience with testing or verification
+    is required, but participants should have some familiarity with Python.
+
+
+    We will offer travel support for a limited number of students and early-career researchers.
+    Indicate your interest on the **[registration form](https://www.eventsquid.com/event/28895)**.
+
+    This tutorial is led by Alper Altuntas, features guest lecturers from academia and industry, 
+    and is supported by the **[2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows)**.
+
 
 submissions:
   title: "Submissions"
   text: > 
-       - Submissions are closed.
+       - Abstract submissions are closed.
         
 
 registration:
@@ -143,20 +166,19 @@ organizers:
 
 program:
   title: "Program"
-  text: > 
+  text: >
+   
 
-        A tentative overview of the upcoming program is provided below (subject to change). Full program details will be announced in Summer 2025.
-        You can find the program for the inaugural workshop held in 2023 [here](https://ncar.github.io/correctness-workshop-2023/).
+        [**> Click here**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true) to see the tentative program.
         
 
-          ![CW2025](assets/img/program_overview.png){: width="60%" style="padding: 0px; display: block; margin-left: 40px;"}
-
-
-        #### Confirmed Invited Speakers:
+        *Invited Speakers and Lecturers:*
 
          - [Soonho Kong](https://soonhokong.github.io/), Principal Applied Scientist, Amazon Web Services (AWS)
          - [Antonios Mamalakis](https://datascience.virginia.edu/people/antonios-mamalakis), Assistant Professor, University of Virginia (UVA) 
          - [David John Gagne](https://www.cisl.ucar.edu/directory/david-john-gagne), Machine Learning Scientist II, NSF National Center for Atmospheric Research (NCAR)
+         - [John Baugh](https://ccee.ncsu.edu/people/jwb/), Professor, North Carolina State University
+         - [Deepak Cherian](https://cherian.net/), Forward Engineer, Earthmover
 
 
          

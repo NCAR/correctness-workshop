@@ -39,11 +39,15 @@
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text2 -%}
         <div class="intro-heading2">{{ site.data.sitetext.header.text2 | markdownify }}</div>
-	  {%- endif -%}
-	  {%- if site.data.sitetext.header.button -%}
+    {%- endif -%}
+        {%- if site.data.sitetext.header.button -%}
         <a class="btn btn-primary btn-l text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink }}">{{ site.data.sitetext.header.button }}</a>
-	  {%- endif -%}
-      </div>
+        {% if site.data.sitetext.header.button2 %}&nbsp;&nbsp;{% endif %}
+        {%- endif -%}
+        {%- if site.data.sitetext.header.button2 -%}
+        <a class="btn btn-primary btn-l text-uppercase js-scroll-trigger" href="{{ site.data.sitetext.header.buttonlink2 }}">{{ site.data.sitetext.header.button2 }}</a>
+        {%- endif -%}
+        </div>
     </div>
   </header>
   <!-- End Header -->
