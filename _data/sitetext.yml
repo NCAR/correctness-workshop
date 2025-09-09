@@ -81,10 +81,7 @@ tutorial:
 
 
     **What you’ll do.** Working through a running example (1-D heat equation), you’ll incrementally transform
-    an unstructured, monolithic code into modular, testable, and trustworthy code.
-
-
-    **Key topics:**
+    an unstructured, monolithic code into modular, testable, and trustworthy code. Key topics:
 
       - **Designing for robustness:** specifications, preconditions, postconditions, invariants  
       - **Unit testing with `pytest`**  
