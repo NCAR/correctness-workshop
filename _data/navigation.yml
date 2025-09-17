@@ -20,10 +20,10 @@ nav:
     section: registration
   - title: "Dates"
     section: dates
-  - title: "Organizers"
-    section: organizers
   - title: "Program"
     section: program
+  - title: "Organizers"
+    section: organizers
   - title: "Venue"
     section: venue
   - title: "Lodging"
