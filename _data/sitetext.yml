@@ -144,14 +144,54 @@ program:
 
         -  *Special Session: AI/ML Reasoning and Explainability in Scientific Software* (Thursday Morning Session)  
 
-            - **Keynote:** *"Lean into Verifiable Intelligence"*, <br>
-              Soonho Kong, Principal Applied Scientist, Amazon Web Services (AWS)
+            - **Keynote:** Soonho Kong, Amazon Web Services (AWS) <br>
+              Title: *"Lean into Verifiable Intelligence"*
+              <div style="margin-left: 2ch;">
+                <details class="mydetails">
+                  <summary>Abstract <span style="line-height: 2.0;"></span></summary>
+                  <p>
+                     The convergence of artificial intelligence and formal verification is creating a transformative virtuous cycle that will reshape how we create and validate knowledge.
+                     On one side, AI systems increasingly need verification to ensure correct outputs and build trust. On the other, formal verification methods require AI to overcome 
+                     fundamental challenges in scalability, usability, and automation. This bidirectional relationship is already revolutionizing mathematics through systems like Lean4, 
+                     where AI assists in proof discovery while formal foundations ensure mathematical rigor, demonstrating how this synergy accelerates reliable knowledge creation. 
+                     The success of Lean4 in transforming mathematical research offers a compelling blueprint for achieving verifiable intelligence across domains, 
+                     fundamentally changing our approach to creating systems that are both powerful and provably correct.
+                  </p>
+                </details>
+              </div>  
 
-            - **Invited Talk:** *"When Do Explanations Explain? A Controlled Study of XAI Under Varying Signal-to-Noise"*, <br>
-              Antonios Mamalakis, Assistant Professor, University of Virginia (UVA)
+            - **Invited Talk:** Antonios Mamalakis, University of Virginia (UVA) <br>
+              Title: *"When Do Explanations Explain? A Controlled Study of XAI Under Varying Signal-to-Noise"*
+              <div style="margin-left: 2ch;">
+                <details class="mydetails">
+                  <summary>Abstract <span style="line-height: 2.0;"></span></summary>
+                  <p>
+                  Neural networks deliver strong predictions across the sciences, but their opacity limits adoption, especially in geoscience, where understanding why a forecast is made matters.
+                  Explainable AI (XAI) methods aim to bridge this gap, yet their outputs are method-dependent and can disagree, and even faithful attributions may be physically misleading if the
+                  underlying model has learned noise rather than signal. We conduct a controlled study using a synthetic benchmark in which the true drivers of the target are known. By training
+                  neural networks across different data sizes and target noise levels (conditions that mirror many observational Earth system datasets), we test when XAI methods recover the true
+                  explanatory structure. Two main results emerge. First, explanatory fidelity increases as models capture a larger fraction of the learnable, signal-driven variance. Second,
+                  inter-method agreement tracks this fidelity and can serve as a practical proxy when ground truth is unavailable. Conversely, in low signal-to-noise or data-scarce regimes, 
+                  explanations degrade and methods diverge. These findings offer concrete guidance for deploying XAI in geosciences and beyond: prioritize models that demonstrably learn signal,
+                  and use cross-method consensus as an operational check on explanation reliability.
+                  </p>
+                </details>
+              </div>  
 
-            - **Invited Talk:** *"Validating and Enforcing Physical Consistencies in AI weather prediction models"*, <br>
-              David John Gagne, Machine Learning Scientist II, NSF National Center for Atmospheric Research (NCAR)
+            - **Invited Talk:** David John Gagne, NSF National Center for Atmospheric Research<br>
+              Title: *"Validating and Enforcing Physical Consistencies in AI weather prediction models"*
+              <div style="margin-left: 2ch;">
+                <details class="mydetails">
+                  <summary>Abstract <span style="line-height: 2.0;"></span></summary>
+                  <p>
+                    AI weather prediction models have demonstrated remarkable increases in accuracy over traditional NWP models with far less latency and computational requirements for prediction.
+                    However, there are a growing number of examples where the improvements in performance come at the expense of physical consistency guarantees that are necessary assumptions
+                    for downstream applications like data assimilation. AI weather prediction models also tend to experience error growth in ways that differ noticeably from physics-based models.
+                    This presentation will examine different error scenarios for AI weather prediction models and show how some of these errors are being mitigated through architecture
+                    and physics constraints in the NCAR CREDIT platform. 
+                  </p>
+                </details>
+              </div>  
 
             - **Panel Discussion:** *" AI/ML Reasoning and Explainability in Scientific Computing"* <br>
               Moderator: Dorit Hammerling, Colorado School of Mines <br>
