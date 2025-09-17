@@ -134,6 +134,31 @@ dates:
 
       - Workshop and Tutorial dates: November 5-7, 2025.
 
+program:
+  title: "Program"
+  text: >
+   
+
+        - [**Click here to see the full program (Days 1-3)**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true)
+
+
+        -  *Special Session: AI/ML Reasoning and Explainability in Scientific Software* (Thursday Morning Session)  
+
+            - **Keynote:** *"Lean into Verifiable Intelligence"*, <br>
+              Soonho Kong, Principal Applied Scientist, Amazon Web Services (AWS)
+
+            - **Invited Talk:** *"When Do Explanations Explain? A Controlled Study of XAI Under Varying Signal-to-Noise"*, <br>
+              Antonios Mamalakis, Assistant Professor, University of Virginia (UVA)
+
+            - **Invited Talk:** *"Validating and Enforcing Physical Consistencies in AI weather prediction models"*, <br>
+              David John Gagne, Machine Learning Scientist II, NSF National Center for Atmospheric Research (NCAR)
+
+            - **Panel Discussion:** *" AI/ML Reasoning and Explainability in Scientific Computing"* <br>
+              Moderator: Dorit Hammerling, Colorado School of Mines <br>
+              Panelists: Soonho Kong (AWS), Antonios Mamalakis (UVA), David John Gagne (NCAR)
+          
+
+         
 organizers:
   title: "Organizers"
   text: > 
@@ -170,24 +195,6 @@ organizers:
         - [Elizabeth Faircloth](https://www.cgd.ucar.edu/people/elizabeth-faircloth), CGD, NSF National Center for Atmospheric Research
 
 
-program:
-  title: "Program"
-  text: >
-   
-
-        [**> Click here**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true) to see the tentative program.
-        
-
-        *Invited Speakers and Lecturers:*
-
-         - [Soonho Kong](https://soonhokong.github.io/), Principal Applied Scientist, Amazon Web Services (AWS)
-         - [Antonios Mamalakis](https://datascience.virginia.edu/people/antonios-mamalakis), Assistant Professor, University of Virginia (UVA) 
-         - [David John Gagne](https://www.cisl.ucar.edu/directory/david-john-gagne), Machine Learning Scientist II, NSF National Center for Atmospheric Research (NCAR)
-         - [John Baugh](https://ccee.ncsu.edu/people/jwb/), Professor, North Carolina State University
-         - [Deepak Cherian](https://cherian.net/), Forward Engineer, Earthmover
-
-
-         
 venue:
   title: "Venue"
   text: > 
