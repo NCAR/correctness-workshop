@@ -86,7 +86,7 @@ tutorial:
       - **Designing for robustness:** specifications, preconditions, postconditions, invariants  
       - **Unit testing with `pytest`**  
       - **Property-based testing with `Hypothesis`**  
-      - **Symbolic & bounded checking with `CrossHair`**  
+      - **Theorem proving with `z3py`**  
       - **Practical strategies** for testing real-world scientific code and verifying AI/ML-generated code
 
   
