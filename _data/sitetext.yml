@@ -87,16 +87,24 @@ tutorial:
       - **Unit testing with `pytest`**  
       - **Property-based testing with `Hypothesis`**  
       - **Theorem proving with `z3py`**  
-      - **Practical strategies** for testing real-world scientific code and verifying AI/ML-generated code
+      - **Practical strategies** for testing real-world scientific code
+      - **Verifiable and Explainable AI** for scientific computing
+
+
+    **Invited Speakers and Lecturers**
+
+      - Soonho Kong (AWS)
+      - Philip Zucker (Draper)
+      - Adrianna Foster (NSF NCAR)
+      - Antonios Mamalakis (UVA)
+      - Deepak Cherian (Earthmover)
+      - Helen Kershaw (NSF NCAR)
+      - Manish Venumuddula (NSF NCAR)
 
   
     **Who should attend?** This tutorial is intended for scientists, engineers, and students involved 
     in scientific computing, regardless of domain or career stage. No prior experience with testing or verification
     is required, but participants should have some familiarity with Python.
-
-
-    We will offer travel support for a limited number of students and early-career researchers.
-    Indicate your interest on the **[registration form](https://www.eventsquid.com/event/28895)**.
 
     This tutorial is led by Alper Altuntas, features guest lecturers from academia and industry, 
     and is supported by the **[2025 Better Scientific Software (BSSw) Fellowship program](https://bssw.io/blog_posts/introducing-the-2025-bssw-fellows)**.
@@ -229,6 +237,8 @@ organizers:
         - [Samantha Scalice](https://www.cisl.ucar.edu/directory/samantha-scalice), CISL, NSF National Center for Atmospheric Research
 
         - [Elizabeth Faircloth](https://www.cgd.ucar.edu/people/elizabeth-faircloth), CGD, NSF National Center for Atmospheric Research
+
+        - [Teresa Walz](https://www.cgd.ucar.edu/people/teresa-walz), CGD, NSF National Center for Atmospheric Research
 
 
 venue:
