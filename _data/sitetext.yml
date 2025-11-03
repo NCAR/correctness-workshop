@@ -17,8 +17,8 @@ header:
          for Earth System Software
 
   text2: "Tutorial: Rigor and Reasoning in Research Software"
-  button: Registration Form
-  buttonlink: https://www.eventsquid.com/event/28895
+  #button: Registration Form
+  #buttonlink: https://www.eventsquid.com/event/28895
   button2: Program
   buttonlink2: https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true
 
@@ -94,7 +94,6 @@ tutorial:
     **Invited Speakers and Lecturers**
 
       - Soonho Kong (AWS)
-      - Philip Zucker (Draper)
       - Adrianna Foster (NSF NCAR)
       - Antonios Mamalakis (UVA)
       - Deepak Cherian (Earthmover)
@@ -120,11 +119,7 @@ registration:
   title: "Registration"
   text: > 
 
-         - [**Registration form**](https://www.eventsquid.com/event/28895).
-
-         - In-person fee: $80, Virtual fee: $25
-
-         - Tutorial participation for students and postdocs is free. Contact altuntas AT ucar DOT edu for details.
+         - Registration is closed.
 
 dates:
   title: "Dates"
