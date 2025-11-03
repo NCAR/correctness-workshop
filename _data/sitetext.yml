@@ -19,8 +19,10 @@ header:
   text2: "Tutorial: Rigor and Reasoning in Research Software"
   #button: Registration Form
   #buttonlink: https://www.eventsquid.com/event/28895
-  button2: Program
-  buttonlink2: https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true
+  button: Program
+  buttonlink: https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true
+  button2: Abstracts
+  buttonlink2: assets/Abstracts_CW2025.pdf
 
 workshop:
   title: "Workshop"
@@ -195,6 +197,8 @@ program:
             - **Panel Discussion:** *" AI/ML Reasoning and Explainability in Scientific Computing"* <br>
               Moderator: Dorit Hammerling, Colorado School of Mines <br>
               Panelists: Soonho Kong (AWS), Antonios Mamalakis (UVA), David John Gagne (NCAR)
+            
+        - **Abstracts**: [Click here](assets/Abstracts_CW2025.pdf) to see the full list of invited and contributed abstracts for the workshop.
           
 
          
