@@ -92,6 +92,9 @@ tutorial:
       - **Theorem proving with `z3py`**  
       - **Practical strategies** for testing real-world scientific code
       - **Verifiable and Explainable AI** for scientific computing
+    
+    **Tutorial materials.** Jupyter notebooks and code examples are available at: 
+    [GitHub Repository](https://github.com/alperaltuntas/r3sw)
 
 
     **Invited Speakers and Lecturers**
