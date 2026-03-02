@@ -19,10 +19,10 @@ header:
   text2: "Tutorial: Rigor and Reasoning in Research Software"
   #button: Registration Form
   #buttonlink: https://www.eventsquid.com/event/28895
-  button: Program (Slides & Recordings)
+  button: Slides & Recordings
   buttonlink:  "#program"
-  button2: Abstracts
-  buttonlink2: assets/Abstracts_CR25.pdf
+  button2: Technical Report
+  buttonlink2: assets/NCAR_Correctness_25.pdf
 
 workshop:
   title: "Workshop"
