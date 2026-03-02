@@ -19,8 +19,8 @@ header:
   text2: "Tutorial: Rigor and Reasoning in Research Software"
   #button: Registration Form
   #buttonlink: https://www.eventsquid.com/event/28895
-  button: Program & Slides
-  buttonlink: https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true
+  button: Program (Slides & Recordings)
+  buttonlink:  "#program"
   button2: Abstracts
   buttonlink2: assets/Abstracts_CR25.pdf
 
@@ -146,6 +146,10 @@ program:
 
         - [**Click here to see the full program and slides**](https://docs.google.com/spreadsheets/d/e/2PACX-1vSK_68JBvS9fJ1m6QPEdZVuZXVefJoayPc3RT1CQPVXu9s2HypiX-hq3wiPklNqYQAqpqlf8qRa9bxu/pubhtml?gid=0&single=true)
 
+        - Video recordings:
+            - [Day 1: Tutorial](https://www.youtube.com/watch?v=dCDij293s74)
+            - [Day 2: Workshop & Special Session](https://www.youtube.com/watch?v=5q8ZSPDMYsE)
+            - [Day 3: Tutorial & Workshop](https://www.youtube.com/watch?v=wl6ADk285wc)
 
         -  *Special Session: AI/ML Reasoning and Explainability in Scientific Software* (Thursday Morning Session)  
 
